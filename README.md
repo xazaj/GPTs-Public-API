@@ -90,5 +90,5 @@
 
 ### Public API
 
-Coming soon...
+[Free Public API](https://github.com/public-api-lists/public-api-lists/blob/master/README.md)
 
