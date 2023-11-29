@@ -38,7 +38,8 @@
 | [Chat With Workspace](https://api.notionlink.io/openapi.yaml)                                   | Chat with your Notion workspace.|  
 | [IdeaOrganiser](https://idea-organiser.inu-ai.com/openapi.yaml)                                 | Organise and store your notes on Notion. |  
 | [NotesAISync](https://plugin.notion.ainotevault.com/openapi.json)                               | Unofficial connector to Notion for interactive note-taking.|  
-**[⬆ Back to Index](#index)**
+
+**[⬆ 返回目录](#目录)**
 
 ### Web浏览
 
