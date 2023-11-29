@@ -29,7 +29,8 @@
 | [ScholarlyInsight](https://scholarlyinsight--chao-gu-ge-lei.repl.co/openapi.yaml)               | Query research papers from Arxiv. |  
 | [Science](https://oa.mg/ai/openapi.yaml)                                                        | Search over 250M scientific papers and research articles. Perfect for researchers or students. |  
 | [Xpapers](https://xapi.lihaorui.com/openapi.yaml)                                               | Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs.|  
-**[⬆ Back to Index](#index)**
+
+**[⬆ 返回目录](#目录)**
 
 ### Notion
 
@@ -52,7 +53,8 @@
 | [[Scraper](https://scraper.gafo.tech/openapi.yaml)                                              |Scrape content from webpages by providing a URL.|  
 | [[WebsiteChat](https://plugin.chatshape.com/openapi.yaml)                                       | Chat with any website link.|  
 | [[Web Requests](https://plugin.wegpt.ai/openapi.json)                                           | Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. |  
-**[⬆ Back to Index](#index)**
+
+**[⬆ 返回目录](#目录)**
 
 ### 视频网站工具
 
@@ -60,14 +62,16 @@
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
 | [VoxScript](https://voxscript.awt.icu/swagger/v1/swagger.yaml)                                  | Browse & QA Webpage/PDF/Data. |  
 | [What's trending?](https://chatgpt.surge.ai/assets/openapi.yaml)                                | Explore trending searches, keywords, & hashtags by topic across YouTube, Instagram, Amazon, and Google.|  
-**[⬆ Back to Index](#index)**
+
+**[⬆ 返回目录](#目录)**
 
 ### 自动化工具
 
 |                                            API                                                  | Description                                 |  
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
 | [Zapier](https://nla.zapier.com/api/v1/dynamic/openapi.json)                               | Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.|  
-**[⬆ Back to Index](#index)**
+
+**[⬆ 返回目录](#目录)**
 
 ### 提示词工具
 
@@ -79,7 +83,8 @@
 | [AIMaster](https://plugin.chat2any.com/.well-known/openapi.yaml)                                | The prompt is too difficult, now you only need to provide the desired prompt keywords, and you can use the prompt.| 
 | [Image Prompt Enhancer](https://image-prompt-enhancer.gafo.tech/openapi.yaml)                   | Transform your ideas into complex, personalized image generation prompts.|  
 | [MixerBox ImageGen](https://imagegen.mixerbox.com/.well-known/openapi.json)                     | Generate AI Images via DALL·E! Create perfect prompts for Midjourney & Stable Diffusion pictures!|  
-**[⬆ Back to Index](#index)**
+
+**[⬆ 返回目录](#目录)**
 
 
 
