@@ -5,7 +5,7 @@
 
 ## 目录
 
-- [GPT Plugins API](#GPT Plugins API)
+
 - [论文查询](#论文查询)
 - [Notion](#Notion)
 - [Web浏览](#Web浏览)
@@ -13,9 +13,10 @@
 - [自动化工具](#自动化工具)
 - [提示词工具](#提示词工具)
 
-- [Public API](#Public API)
+
 
 ### GPT Plugins API
+
 
 ### 论文查询
 
@@ -29,6 +30,7 @@
 | [Science](https://oa.mg/ai/openapi.yaml)                                                        | Search over 250M scientific papers and research articles. Perfect for researchers or students. |  
 | [Xpapers](https://xapi.lihaorui.com/openapi.yaml)                                               | Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs.|  
 
+
 ### Notion
 
 |                                            API                                                  | Description                                 |  
@@ -36,6 +38,7 @@
 | [Chat With Workspace](https://api.notionlink.io/openapi.yaml)                                   | Chat with your Notion workspace.|  
 | [IdeaOrganiser](https://idea-organiser.inu-ai.com/openapi.yaml)                                 | Organise and store your notes on Notion. |  
 | [NotesAISync](https://plugin.notion.ainotevault.com/openapi.json)                               | Unofficial connector to Notion for interactive note-taking.|  
+
 
 ### Web浏览
 
@@ -62,7 +65,7 @@
 
 |                                            API                                                  | Description                                 |  
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
-| [Zapier](https://nla.zapier.com/api/v1/dynamic/openapi.json）                                   | Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.|  
+| [Zapier](https://nla.zapier.com/api/v1/dynamic/openapi.json)                               | Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.|  
 
 
 ### 提示词工具
