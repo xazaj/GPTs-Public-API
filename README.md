@@ -6,12 +6,16 @@
 ## 目录
 
 
-- [论文查询](#论文查询)
-- [Notion](#Notion)
-- [Web浏览](#Web浏览)
-- [视频网站工具](#视频网站工具)
-- [自动化工具](#自动化工具)
-- [提示词工具](#提示词工具)
+- [GPTs-Public-API](#gpts-public-api)
+  - [目录](#目录)
+    - [GPT Plugins API](#gpt-plugins-api)
+    - [论文查询](#论文查询)
+    - [Notion](#notion)
+    - [Web浏览](#web浏览)
+    - [视频网站工具](#视频网站工具)
+    - [自动化工具](#自动化工具)
+    - [提示词工具](#提示词工具)
+    - [Public API](#public-api)
 
 
 
@@ -48,11 +52,11 @@
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
 | [WebPilot](https://webreader.webpilotai.com/openapi.yaml)                                       | Browse & QA Webpage/PDF/Data. |  
 | [Access Link](https://www.accesslinks.ai/.well-known/openapi.yaml)                              | Access any links on the web and get the information you need.|  
-| [[NotesAISync](https://testplugin.feednews.com/.well-known/openapi.yaml)                        | Browse dozens of webpages in one query. Fetch information more efficiently.|  
+| [NotesAISync](https://testplugin.feednews.com/.well-known/openapi.yaml)                        | Browse dozens of webpages in one query. Fetch information more efficiently.|  
 | [Custom Knowledge](https://oracle.eesel.app/.well-known/openapi.yaml)                           | Provide your docs, webpages, and other links, and get personalised answers.|  
-| [[Scraper](https://scraper.gafo.tech/openapi.yaml)                                              |Scrape content from webpages by providing a URL.|  
-| [[WebsiteChat](https://plugin.chatshape.com/openapi.yaml)                                       | Chat with any website link.|  
-| [[Web Requests](https://plugin.wegpt.ai/openapi.json)                                           | Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. |  
+| [Scraper](https://scraper.gafo.tech/openapi.yaml)                                              |Scrape content from webpages by providing a URL.|  
+| [WebsiteChat](https://plugin.chatshape.com/openapi.yaml)                                       | Chat with any website link.|  
+| [Web Requests](https://plugin.wegpt.ai/openapi.json)                                           | Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. |  
 
 **[⬆ 返回目录](#目录)**
 
