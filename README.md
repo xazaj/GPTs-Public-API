@@ -15,6 +15,7 @@
     - [视频网站工具](#视频网站工具)
     - [自动化工具](#自动化工具)
     - [提示词工具](#提示词工具)
+    - [SEO 工具](#seo-工具)
     - [Public API](#public-api)
 
 
@@ -90,9 +91,19 @@
 
 **[⬆ 返回目录](#目录)**
 
+### SEO 工具
 
+|                                            API                                                  | Description                                 |
+| :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
+| [SEO](https://seo-plugin.orrenprunckun.com/openapi.yaml)                                        | Send a URL and keyword and get a On Page SEO analysis. |
+
+**[⬆ 返回目录](#目录)**
 
 ### Public API
 
 [Free Public API](https://github.com/public-api-lists/public-api-lists/blob/master/README.md)
+
+
+
+
 
