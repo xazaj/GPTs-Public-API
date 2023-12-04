@@ -16,6 +16,7 @@
     - [自动化工具](#自动化工具)
     - [提示词工具](#提示词工具)
     - [SEO 工具](#seo-工具)
+    - [幼教工具](#幼教工具)
     - [Public API](#public-api)
 
 
@@ -96,6 +97,13 @@
 |                                            API                                                  | Description                                 |
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
 | [SEO](https://seo-plugin.orrenprunckun.com/openapi.yaml)                                        | Send a URL and keyword and get a On Page SEO analysis. |
+
+**[⬆ 返回目录](#目录)**
+
+### 幼教工具
+|                                            API                                                  | Description                                 |
+| :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
+| [ABCmouse](https://ai.abcmouse.com/openapi.yml)                                                 | Provides fun and educational learning activities for children 2-8 years old. |
 
 **[⬆ 返回目录](#目录)**
 
