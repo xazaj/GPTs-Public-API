@@ -17,6 +17,7 @@
     - [提示词工具](#提示词工具)
     - [SEO 工具](#seo-工具)
     - [幼教工具](#幼教工具)
+    - [故事查询工具](#故事查询工具)
     - [Public API](#public-api)
 
 
@@ -106,6 +107,14 @@
 | [ABCmouse](https://ai.abcmouse.com/openapi.yml)                                                 | Provides fun and educational learning activities for children 2-8 years old. |
 
 **[⬆ 返回目录](#目录)**
+
+### 故事查询工具
+|                                            API                                                  | Description                                 |
+| :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
+| [Inkitt Stories](https://www.inkitt.com/openai-openapi.yaml)                                    | Find some stories and books for the user. |
+
+**[⬆ 返回目录](#目录)**
+
 
 ### Public API
 
