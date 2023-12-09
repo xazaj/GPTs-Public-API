@@ -18,6 +18,7 @@
     - [SEO 工具](#seo-工具)
     - [幼教工具](#幼教工具)
     - [故事查询工具](#故事查询工具)
+    - [咖啡查询工具](#咖啡查询工具)
     - [Public API](#public-api)
 
 
@@ -112,6 +113,13 @@
 |                                            API                                                  | Description                                 |
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
 | [Inkitt Stories](https://www.inkitt.com/openai-openapi.yaml)                                    | Find some stories and books for the user. |
+
+**[⬆ 返回目录](#目录)**
+
+### 咖啡查询工具
+|                                            API                                                  | Description                                 |
+| :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
+| [ICoffeeHo](https://gptstore.ai/plugins/plugin-coffeeho-net)                                         | Your Personal Coffee Expert |
 
 **[⬆ 返回目录](#目录)**
 
