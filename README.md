@@ -99,6 +99,8 @@
 |                                            API                                                  | Description                                 |
 | :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
 | [SEO](https://seo-plugin.orrenprunckun.com/openapi.yaml)                                        | Send a URL and keyword and get a On Page SEO analysis. |
+| [Keyword Explorer](https://keyword-explorer.maila.ai/.well-known/openapi.yaml)         | Keyword Explorer suggests the top related keywords to amplify your content optimization. |
+
 
 **[⬆ 返回目录](#目录)**
 
