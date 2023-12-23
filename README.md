@@ -15,6 +15,7 @@
     - [视频网站工具](#视频网站工具)
     - [自动化工具](#自动化工具)
     - [提示词工具](#提示词工具)
+    - [AI工具](#ai工具)
     - [SEO 工具](#seo-工具)
     - [幼教工具](#幼教工具)
     - [故事查询工具](#故事查询工具)
@@ -92,6 +93,12 @@
 | [Image Prompt Enhancer](https://image-prompt-enhancer.gafo.tech/openapi.yaml)                   | Transform your ideas into complex, personalized image generation prompts.|  
 | [MixerBox ImageGen](https://imagegen.mixerbox.com/.well-known/openapi.json)                     | Generate AI Images via DALL·E! Create perfect prompts for Midjourney & Stable Diffusion pictures!|  
 
+**[⬆ 返回目录](#目录)**
+
+### AI工具
+|                                            API                                                  | Description                                 |  
+| :----------------------------------------------------------------------------------------:      | ------------------------------------------- |
+| [Ai Tool Hunt](https://www.aitoolhunt.com/openapi.json)                                         | Type 'perfect' to craft the perfect prompt, every time(https://www.aitoolhunt.com/openapi.json).|  
 **[⬆ 返回目录](#目录)**
 
 ### SEO 工具
